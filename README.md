@@ -1,6 +1,6 @@
 # Lambda-man
 
-<img alt="OCaml" src="https://img.shields.io/badge/OCaml%20-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=white"/>   
+<img alt="OCaml" src="https://img.shields.io/badge/OCaml%20-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=white"/>    
 
 *Projet réalisé en binôme dans le cadre du cours "Programmation Fonctionnelle"*   
 **Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**   
