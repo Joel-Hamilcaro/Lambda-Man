@@ -1,6 +1,10 @@
 # Lambda-man
 
-Projet de programmation fonctionnelle.  
+<img alt="OCaml" src="https://img.shields.io/badge/OCaml%20-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=white"/>   
+
+*Projet réalisé en binôme dans le cadre du cours "Programmation Fonctionnelle"*   
+**Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**   
+
 
 **Objectifs :**   
 Programmer, en langage OCamL, un module de prise de décision d'un robot. Ce robot doit récolter des ressources et les amener à son vaisseau.
