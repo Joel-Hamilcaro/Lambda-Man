@@ -21,17 +21,17 @@ Programmer, en langage OCamL, un module de prise de décision d'un robot. Ce rob
 
 **Remarques :**
 Les fichiers étaient fourni par notre enseignant. Le projet consistait à compléter les fichiers avec notre code. Voici le travail effectué :
-- Dossier src/
-      - Fichier decision.ml :
-            - Implémentation de la fonction Decision.plan
-            - Implémentation de la fonction Decision.next_action
-            - Implémentation de la fonction Decision.visibility_graph
-            - Implémentation de la fonction Decision.shortest_path
-            - Implémentation de la fonction Decision.plan
-      - Mise à jour du fichier worldGenerator.ml :
-      - Mise à jour du fichier visualizer.ml :
-- Dossier myworld/ :
-      - tous les fichiers ont été générés par notre implémentation de worldGenerator.ml.
+- Dossier src/     
+   - Fichier decision.ml :  
+               - Implémentation de la fonction Decision.plan   
+               - Implémentation de la fonction Decision.next_action  
+               - Implémentation de la fonction Decision.visibility_graph   
+               - Implémentation de la fonction Decision.shortest_path   
+               - Implémentation de la fonction Decision.plan   
+   - Mise à jour du fichier worldGenerator.ml    
+   - Mise à jour du fichier visualizer.ml    
+- Dossier myworld/ :    
+   - tous les fichiers ont été générés par notre implémentation de worldGenerator.ml.    
 
 ## Exécution du programme
 
